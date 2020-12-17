@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Version Kubernetes Production
+            Version Kubernetes Production - Skaffold Modified
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
